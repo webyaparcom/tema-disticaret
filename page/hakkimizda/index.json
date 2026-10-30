@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 5,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "19c8yk",
+      "wje39b"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Pazar Köprüsü, üreticiyi uluslararası alıcıyla buluştururken belge ve sevkiyat sürecini baştan sona yöneten kurgusal bir demo firmadır. Bu sitedeki ürünler, belgeler ve pazarlar kurgusaldır.",
+    "en": "Pazar Köprüsü is a fictional demo company that connects producers with international buyers and manages the documents and shipping process end to end. Products, documents and markets on this site are fictional.",
+    "ar": "جسر الأسواق شركة تجريبية افتراضية تربط المنتجين بالمشترين الدوليين وتدير المستندات والشحن من البداية إلى النهاية. المنتجات والوثائق والأسواق في هذا الموقع افتراضية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-10-30T22:11:02.829Z",
+  "date": "2026-10-30"
+}
