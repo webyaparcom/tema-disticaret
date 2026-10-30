@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Pazar Köprüsü: kuru gıda, tekstil ve ambalaj ihracatı; hedef pazarlar, sertifikalar ve teklif talebi. (Demo site)",
+    "en": "Pazar Köprüsü: export of dried foods, textiles and packaging; target markets, certificates and quote requests. (Demo site)",
+    "ar": "جسر الأسواق: تصدير الأغذية المجففة والمنسوجات والتغليف مع الأسواق المستهدفة والشهادات وطلب عرض سعر. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "ihracat, dış ticaret, kuru gıda, tekstil",
+    "en": "export, foreign trade, dried foods, textiles",
+    "ar": "تصدير، تجارة خارجية، أغذية مجففة، منسوجات"
+  },
+  "category": "Kurumsal",
+  "name": "Pazar Köprüsü",
+  "domain": "disticaret.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "open-sans",
+    "heading": "dm-serif-display",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#14365D",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "6px",
+    "--mx-radius-md": "10px",
+    "--mx-radius-lg": "14px",
+    "--mx-radius-xl": "19px"
+  },
+  "icon": "icon.png"
+}
